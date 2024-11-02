@@ -9,7 +9,7 @@ We will experiment with several ideas along the way, including:
 * the Serial Wire Viewer[^2] and
 * the STM32CubeMonitor.
 
-[^2]: Not all Nucleo boards will let you do that. Check the SWO pin. For example, the [Nucleo-G431KB](/ufnalski/Assets/Images/swv_support_nucleo_g431kb.JPG) board vs. the [Nucleo-L432KC](/ufnalski/Assets/Images/swv_no_support_nucleo_l432kc.JPG) board.
+[^2]: Not all Nucleo boards will let you do that. Check the SWO pin. For example, the [Nucleo-G431KB](/ufnalski/pid_temperature_mcp9808_g431kb/blob/main/Assets/Images/swv_support_nucleo_g431kb.JPG) board vs. the [Nucleo-L432KC](/ufnalski/pid_temperature_mcp9808_g431kb/blob/main/Assets/Images/swv_no_support_nucleo_l432kc.JPG) board.
 
 ![MCP9808 and hysteresis controller in action](/Assets/Images/mcp9809_and_hysteresis_controller_in_action.jpg)
 
